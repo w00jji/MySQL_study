@@ -1,0 +1,6 @@
+grade_name,lower_mileage,upper_mileage
+S,100000,999999999
+A,10000,99999
+B,1000,9999
+C,100,999
+D,0,99
